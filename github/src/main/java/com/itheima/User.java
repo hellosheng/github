@@ -8,4 +8,7 @@ public class User {
     private int phone;
 
     private String addr;
+
+    //Z这是mater修改的
+    private String master;
 }
